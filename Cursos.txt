@@ -1,0 +1,13 @@
+Uso de una condicion para deinir un valor en variables logicas:
+
+Diagrama del huevo, condicion "Si" "Sino"
+
+Operadores aritmeticos:
+
+Operadores de comparacion:
+
+Operadores lógicos:
+
+Esperar:
+
+Borrar:
